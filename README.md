@@ -1,2 +1,6 @@
-# best-repo-ever
-[# My Awesome Project.txt](https://github.com/user-attachments/files/16926634/My.Awesome.Project.txt)
+# My Awesome Project
+
+Welcome to my awesome project!
+
+## New Section
+- This is a new section added to the README.
